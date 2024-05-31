@@ -1,0 +1,26 @@
+@font-face {
+    font-family: 'Circe';
+    src: url('./fonts/AnyConv.com__ofont.ru_Circe.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Bebas Neue';
+    src: url('./fonts/AnyConv.com__ofont.ru_Bebas Neue.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Raleway';
+    src: url('./fonts/raleway-regular.woff2') format('woff2');
+}
+
+@font-face {
+    font-family: 'Outfit', sans-serif;
+    src: url('./fonts/AnyConv.com__ofont.ru_Raleway.woff2');
+}
+
+body {
+    background-color: #000;
+    color: #fafafa;
+    font-family: 'Raleway', sans-serif;
+    overflow-x: hidden;
+}
